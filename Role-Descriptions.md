@@ -214,7 +214,7 @@ Responsibilities:
 - Strengthen industry engagement and member career opportunities.
 - Support long term partnership development.
 
-## Insustry Officer
+## Industry Officer
 > [!NOTE]
 > Experience not required, 2-4 hours weekly
 
